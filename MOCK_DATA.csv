@@ -1,0 +1,1001 @@
+customer_id,product_name,quantity,unit_price,total_price,region
+1,Sports Windbreaker,50,7.9,395.0,EMEA
+2,Bamboo Toothbrush,3,74.6,223.8,MEA
+3,Organic Quinoa,27,830.34,22419.18,NA
+4,Winter Knit Beanie,70,208.19,14573.3,MEA
+5,Savory Mushroom Risotto,69,239.17,16502.73,LATAM
+6,Roasted Garlic,76,644.18,48957.68,MEA
+7,Sweetened Condensed Milk,6,148.16,888.96,APAC
+8,Honey Roasted Chickpeas,66,979.17,64625.22,NA
+9,Cinnamon Sugar Donuts,58,83.95,4869.1,APAC
+10,Sports Windbreaker,33,645.86,21313.38,LATAM
+11,Roasted Red Pepper Hummus,55,942.99,51864.45,MEA
+12,Digital Meat Thermometer,49,370.78,18168.22,NA
+13,Whole Wheat Bread,46,268.27,12340.42,APAC
+14,Thai Basil Fried Rice,99,562.57,55694.43,LATAM
+15,Almond Crunch Granola Bars,31,934.63,28973.53,MEA
+16,Brown Sugar,61,12.54,764.94,LATAM
+17,Kettle Chip Variety Pack,92,350.64,32258.88,NA
+18,Magnet Travel Fridge Magnets,36,831.78,29944.08,EMEA
+19,Photo Album,73,387.12,28259.76,NA
+20,Maple Bacon Popcorn,11,925.33,10178.63,LATAM
+21,Italian Herbal Seasoning,32,357.27,11432.64,LATAM
+22,Teriyaki Chicken Bowl,77,230.46,17745.42,EMEA
+23,Hiking Boots,75,616.6,46245.0,APAC
+24,Organic Granola,64,328.55,21027.2,EMEA
+25,Strawberry Fruit Spread,43,524.62,22558.66,APAC
+26,Eco-Friendly Yoga Blocks,97,981.32,95188.04,APAC
+27,Instant Pot,80,968.45,77476.0,LATAM
+28,Bamboo Utensil Holder,98,64.81,6351.38,APAC
+29,Beef Stroganoff Meal Kit,56,992.55,55582.8,EMEA
+30,Sliced Strawberries,2,151.38,302.76,EMEA
+31,Organic Whole Grain Oats,33,481.07,15875.31,EMEA
+32,Pet Hair Vacuum Cleaner Attachment,12,731.65,8779.8,LATAM
+33,Fall-Themed Table Runner,97,295.42,28655.74,LATAM
+34,Wireless Keyboard and Mouse Combo,48,775.08,37203.84,NA
+35,Kale Chips,8,385.83,3086.64,EMEA
+36,Basic V-Neck T-Shirt,51,143.83,7335.33,NA
+37,Window Blinds,30,10.57,317.1,APAC
+38,Gluten-Free Pancake Mix,66,104.14,6873.24,LATAM
+39,Digital Meat Thermometer,5,764.68,3823.4,APAC
+40,Dark Chocolate Covered Pretzels,92,303.97,27965.24,LATAM
+41,Artisan Bread Loaf,65,307.88,20012.2,EMEA
+42,Personal Blender with Cups,35,344.72,12065.2,APAC
+43,Artisan Bread Loaf,7,221.91,1553.37,MEA
+44,Natural Peanut Butter,61,841.9,51355.9,LATAM
+45,Whole Grain Mustard,65,187.02,12156.3,MEA
+46,Kids' Trampoline,97,408.96,39669.12,NA
+47,Chicken Breasts,82,796.52,65314.64,LATAM
+48,Creamy Ranch Dressing,43,689.09,29630.87,MEA
+49,Honey-Balsamic Vinaigrette,15,607.59,9113.85,APAC
+50,Bodyweight Resistance Bands,73,564.92,41239.16,LATAM
+51,Comfort Flats,55,674.09,37074.95,APAC
+52,Foam Muscle Roller,98,724.44,70995.12,MEA
+53,Rolling Cooler,68,429.45,29202.6,LATAM
+54,Baby Safety Corner Guards,86,343.37,29529.82,EMEA
+55,High-Pressure Handheld Shower Head,91,827.34,75287.94,APAC
+56,Wall Planner,25,838.35,20958.75,APAC
+57,Paint By Numbers Kit,64,703.68,45035.52,NA
+58,Buffalo Stilton Cheese,83,747.93,62078.19,MEA
+59,Greek Feta Cheese,25,330.06,8251.5,LATAM
+60,Almond Joy Munch Bars,5,127.05,635.25,MEA
+61,Honey BBQ Riblets,41,99.95,4097.95,MEA
+62,Reflective Safety Vest,95,836.1,79429.5,MEA
+63,Balsamic Vinegar,75,121.16,9087.0,NA
+64,Athletic Jogging Jacket,34,218.39,7425.26,NA
+65,Instant Mashed Potatoes,47,531.29,24970.63,EMEA
+66,LED Flashing Pet Collar,60,403.26,24195.6,NA
+67,Kale and Quinoa Salad,56,546.45,30601.2,LATAM
+68,Suction Cup Hooks,65,525.92,34184.8,MEA
+69,Multicolored LED Strip Lights,30,311.69,9350.7,EMEA
+70,Kids' Building Blocks,27,812.96,21949.92,NA
+71,Adjustable Garden Rake,39,955.31,37257.09,NA
+72,Pasta Maker Machine,79,398.85,31509.15,APAC
+73,Chocolate Dipped Fruit,39,721.04,28120.56,APAC
+74,Kids' Outdoor Explorer Kit,33,50.7,1673.1,APAC
+75,Outdoor String Lights,71,447.7,31786.7,NA
+76,Coconut Curry Sauce,92,835.03,76822.76,MEA
+77,Strawberry Rhubarb Jam,86,80.38,6912.68,APAC
+78,Tropical Fruit Bowl,89,723.82,64419.98,APAC
+79,Spicy Thai Coconut Soup,2,863.4,1726.8,NA
+80,Frozen Cauliflower Rice,65,156.15,10149.75,LATAM
+81,Garlic Herb Cream Cheese,32,268.14,8580.48,NA
+82,Electric Razor,64,586.62,37543.68,LATAM
+83,Pasta Maker Machine,28,43.26,1211.28,MEA
+84,Solar Garden Lights,57,497.76,28372.32,NA
+85,Compressed Towel Tablets,31,662.33,20532.23,EMEA
+86,Mini Air Hockey Table,9,650.96,5858.64,EMEA
+87,Portable Pet Bathing Tool,69,189.21,13055.49,NA
+88,Trainers with Mesh Inserts,8,469.6,3756.8,EMEA
+89,Personalized Cutting Board,11,340.8,3748.8,APAC
+90,Flavored Instant Oatmeal,23,450.46,10360.58,MEA
+91,Creamy Garlic Mashed Potatoes,32,476.43,15245.76,EMEA
+92,Samoas Cookie Mix,12,226.41,2716.92,LATAM
+93,Sriracha Honey Glaze,40,251.96,10078.4,APAC
+94,Compact Refrigerator,73,25.87,1888.51,MEA
+95,Mini Electric Kettle,41,148.33,6081.53,EMEA
+96,Sporty Leggings,83,7.36,610.88,NA
+97,Pumpkin Pie Spice,64,301.57,19300.48,NA
+98,Incense Holder,21,821.72,17256.12,APAC
+99,High-Waisted Skirt,40,366.62,14664.8,LATAM
+100,Portable SSD,36,486.48,17513.28,NA
+101,Garlic Butter Sauce,11,489.28,5382.08,NA
+102,Classic Black Trousers,83,542.2,45002.6,NA
+103,Thai Coconut Curry Sauce,12,400.45,4805.4,NA
+104,Magnetic Screen Door,25,480.11,12002.75,EMEA
+105,Electronic Drum Kit,14,554.02,7756.28,LATAM
+106,Coconut Milk Yogurt,70,64.07,4484.9,NA
+107,Jennifer's Amazing Lip Balm Kit,27,758.38,20476.26,APAC
+108,Sliced Olives,25,980.29,24507.25,EMEA
+109,Sweet Chili Sauce,9,742.76,6684.84,MEA
+110,Traditional Hummus,96,912.3,87580.8,MEA
+111,High-Low Hem Tee,90,216.79,19511.1,APAC
+112,Bamboo Toothbrush,96,815.12,78251.52,EMEA
+113,Wine Decanter,44,798.35,35127.4,EMEA
+114,Homemade Salsa,51,884.54,45111.54,APAC
+115,Smart Air Purifier,36,154.96,5578.56,LATAM
+116,Chipotle Black Bean Burger,10,930.26,9302.6,EMEA
+117,Ice Cream Scoop,19,601.09,11420.71,EMEA
+118,Garlic & Herb Goat Cheese,24,194.08,4657.92,NA
+119,Sweet Potato Mash,19,581.81,11054.39,EMEA
+120,Mango Salsa,34,711.5,24191.0,MEA
+121,Cocktail Shaker and Mixing Glass Set,23,685.41,15764.43,EMEA
+122,Compact Pop-Up Tent,7,163.73,1146.11,LATAM
+123,Wireless Earbuds,21,320.87,6738.27,APAC
+124,Leather Biker Jacket,86,978.23,84127.78,EMEA
+125,Creamy Spinach Dip,9,599.14,5392.26,LATAM
+126,Portable Leaf Blower,86,705.59,60680.74,APAC
+127,Cauliflower Pizza Crust,83,517.42,42945.86,MEA
+128,High-Low Hem Tee,12,254.89,3058.68,APAC
+129,Hibiscus Tea Bags,83,68.19,5659.77,NA
+130,Tandoori Chicken Marinade,100,459.17,45917.0,MEA
+131,Apple Pie Filling,32,436.09,13954.88,LATAM
+132,Salt and Pepper Grinder Set,98,22.54,2208.92,LATAM
+133,Fitness Jump Rope,20,575.72,11514.4,MEA
+134,Eco-Friendly Stainless Steel Straws,33,186.0,6138.0,APAC
+135,Scented Candles,52,597.02,31045.04,NA
+136,Smart Home Hub,73,523.25,38197.25,LATAM
+137,Fire Roasted Salsa,16,124.63,1994.08,EMEA
+138,Organic Green Apples,62,809.22,50171.64,MEA
+139,Cucumber Relish,51,524.49,26748.99,MEA
+140,Blueberry Muffin Mix,37,320.27,11849.99,MEA
+141,Magnetic Screen Door,73,421.45,30765.85,MEA
+142,Kitchen Knife Sharpening System,94,495.35,46562.9,LATAM
+143,Portable Hammock,6,305.92,1835.52,LATAM
+144,Caramelized Onion Dip,47,345.5,16238.5,NA
+145,Wi-Fi Enabled Smart Light Switch,20,798.65,15973.0,EMEA
+146,Red Lentils,78,449.05,35025.9,APAC
+147,Cheesy Cauliflower Bake,11,713.53,7848.83,MEA
+148,Mini Projector,8,974.43,7795.44,MEA
+149,Sweet Potato and Chickpea Bowl,64,593.21,37965.44,MEA
+150,Weighted Jump Rope with Counter,31,490.6,15208.6,LATAM
+151,Elderberry Syrup Kit,15,292.51,4387.65,LATAM
+152,Adjustable Resistance Bands,81,962.72,77980.32,MEA
+153,Training Soccer Ball,90,879.16,79124.4,LATAM
+154,Solar Power Bank,98,407.8,39964.4,MEA
+155,Coconut Flakes,99,132.68,13135.32,MEA
+156,Heated Throw Blanket,69,137.29,9473.01,LATAM
+157,Chicken Sausage,21,522.97,10982.37,NA
+158,Ricotta Cheese,83,175.87,14597.21,LATAM
+159,V-Neck Sweater,88,929.92,81832.96,EMEA
+160,Vegan Chocolate Cake Mix,80,491.99,39359.2,LATAM
+161,Ankle Boots,56,915.05,51242.8,MEA
+162,Yoga Blocks,14,499.27,6989.78,MEA
+163,Blue Denim Jeans,28,880.45,24652.6,LATAM
+164,Wall Art Stickers,48,585.28,28093.44,NA
+165,Classic Vanilla Fudge,80,907.17,72573.6,LATAM
+166,Digital Food Thermometer,24,815.75,19578.0,APAC
+167,Cranberry Lime Sparkling Water,33,71.35,2354.55,LATAM
+168,Rainbow Veggie Chips,13,909.22,11819.86,NA
+169,Saffron Rice Mix,29,244.78,7098.62,NA
+170,Incense Holder,68,629.37,42797.16,EMEA
+171,Honeycrisp Apples,5,587.24,2936.2,EMEA
+172,Cotton Tote Bag Set,38,438.36,16657.68,LATAM
+173,Home Cleaning Robot,54,338.22,18263.88,LATAM
+174,Motion Sensor Light,98,210.8,20658.4,APAC
+175,Fishing Tackle Box,17,409.62,6963.54,APAC
+176,Video Camera,67,103.4,6927.8,LATAM
+177,Rechargeable Laptop Battery Pack,10,746.2,7462.0,LATAM
+178,Kids' Activity Book,40,146.38,5855.2,MEA
+179,Lentil Soup (canned),6,912.87,5477.22,NA
+180,Beef Stew Meat,2,819.39,1638.78,LATAM
+181,Mini Electric Kettle,49,61.27,3002.23,APAC
+182,Spicy Tuna Rolls,71,180.95,12847.45,MEA
+183,Honey mustard chicken tenders,7,83.23,582.61,EMEA
+184,Canvas Tote Bag,97,711.86,69050.42,NA
+185,Pasta Maker Machine,57,782.48,44601.36,MEA
+186,Multi-Function Meat Tenderizer,73,844.7,61663.1,LATAM
+187,Nut Butter Cups,67,404.1,27074.7,LATAM
+188,Thai Basil Fried Rice,62,360.04,22322.48,EMEA
+189,Organic Coconut Sugar,60,503.19,30191.4,APAC
+190,Linen Trousers,51,15.53,792.03,NA
+191,Outdoor Portable Fire Pit,66,530.3,34999.8,MEA
+192,Cinnamon Roll Protein Bar,41,517.61,21222.01,NA
+193,Breathable Face Mask Set,70,571.02,39971.4,MEA
+194,Dark Chocolate Almond Butter Cups,38,328.98,12501.24,LATAM
+195,Computer Monitor Stand,22,86.71,1907.62,MEA
+196,Coconut Milk Yogurt,4,161.77,647.08,APAC
+197,Fried Rice,65,635.99,41339.35,NA
+198,Chickpea Snack Mix,24,41.51,996.24,MEA
+199,Pet Safety Harness,76,225.31,17123.56,APAC
+200,Herbed Chicken Breast,31,675.44,20938.64,NA
+201,Bamboo Cutting Board Set,25,103.12,2578.0,NA
+202,Screen Cleaning Kit,49,758.9,37186.1,EMEA
+203,Basketball,87,317.04,27582.48,MEA
+204,Gardening Gloves,9,825.97,7433.73,NA
+205,Electric Screwdriver,69,260.25,17957.25,LATAM
+206,LED Table Lamp,54,636.17,34353.18,NA
+207,Running Shorts,20,591.93,11838.6,EMEA
+208,Men's Waterproof Hiking Boots,27,227.02,6129.54,NA
+209,Luxury Bath Robe,26,176.3,4583.8,EMEA
+210,High-Speed HDMI Cable,4,579.59,2318.36,EMEA
+211,Portable Phone Charger,42,487.76,20485.92,MEA
+212,Cauliflower Pizza Crust,82,160.09,13127.38,LATAM
+213,Plant-Based Meal Prep Containers,54,399.66,21581.64,NA
+214,Honey Ginger Tea,3,760.62,2281.86,MEA
+215,Belted Trench Coat,35,142.39,4983.65,APAC
+216,Wall Art,59,336.12,19831.08,NA
+217,Cauliflower Crust Pizza,1,941.72,941.72,EMEA
+218,Luxury Bathrobe,91,33.59,3056.69,LATAM
+219,Colorful Post-It Notes Set,9,528.09,4752.81,NA
+220,Gardening Tool Belt,25,426.76,10669.0,EMEA
+221,Organic Apples,82,426.11,34941.02,MEA
+222,Egg Noodles,73,743.33,54263.09,LATAM
+223,Artisan Bread Loaf,88,704.86,62027.68,APAC
+224,LED Canopy Lights,19,272.26,5172.94,NA
+225,Dark Chocolate Covered Pretzels,80,207.17,16573.6,APAC
+226,Tomato Sauce,37,173.69,6426.53,MEA
+227,Portable Ice Maker,30,976.96,29308.8,EMEA
+228,Toasted Coconut Granola,17,456.76,7764.92,MEA
+229,Pet Water Fountain,37,996.34,36864.58,NA
+230,Organic Cereal Bars,81,476.03,38558.43,MEA
+231,Vegan Tacos,81,909.93,73704.33,LATAM
+232,Dog Training Collar,48,762.55,36602.4,EMEA
+233,USB-C Hub,16,90.97,1455.52,LATAM
+234,Sliced Strawberries,100,795.66,79566.0,EMEA
+235,Ginger Turmeric Latte Mix,83,60.67,5035.61,MEA
+236,Pasta (Linguine),83,623.24,51728.92,NA
+237,Italian Sausage Links,21,426.42,8954.82,EMEA
+238,Low-Fat Cottage Cheese,66,427.31,28202.46,EMEA
+239,Free-Range Eggs,80,273.45,21876.0,APAC
+240,Baked Mac and Cheese,26,265.83,6911.58,MEA
+241,Dish Soap Dispenser,3,858.45,2575.35,EMEA
+242,Mini Hand Gesture Drone,8,807.48,6459.84,MEA
+243,Kids' Building Blocks,57,527.75,30081.75,APAC
+244,Pest Control Traps,82,388.48,31855.36,APAC
+245,Vegetable Fried Rice,65,912.44,59308.6,EMEA
+246,Garden Vegetable Soup,49,294.28,14419.72,MEA
+247,Sweetened Condensed Milk,99,816.04,80787.96,APAC
+248,Kids' Craft Supplies Set,39,674.02,26286.78,MEA
+249,Adjustable Stand for Tablets and Smartphones,65,152.62,9920.3,MEA
+250,Cauliflower Pizza Crust,5,875.49,4377.45,NA
+251,Cat Tree with Scratching Posts,2,145.0,290.0,APAC
+252,Caramelized Onion Dip Mix,40,343.86,13754.4,LATAM
+253,Smart Thermos,48,355.95,17085.6,MEA
+254,Cranberry Juice,80,507.52,40601.6,NA
+255,Crispy Tofu Bites,93,854.56,79474.08,NA
+256,Savory Oatmeal,100,710.95,71095.0,APAC
+257,Creamy Ranch Dressing,25,480.41,12010.25,LATAM
+258,Laptop Sleeve,9,102.58,923.22,NA
+259,Cranberry Lime Sparkling Water,95,808.28,76786.6,EMEA
+260,Wireless Wi-Fi Extender,6,363.38,2180.28,EMEA
+261,Chocolate Mint Thins,21,133.11,2795.31,LATAM
+262,Non-Stick Baking Sheets,87,744.28,64752.36,NA
+263,Organic Coconut Flour,1,798.24,798.24,EMEA
+264,Spicy Roasted Nuts,25,780.65,19516.25,EMEA
+265,Chocolate Mint Thins,62,76.15,4721.3,NA
+266,Cinnamon Raisin Bagels,87,204.5,17791.5,APAC
+267,Biodegradable Phone Case,86,687.57,59131.02,EMEA
+268,Cork Yoga Mat,81,221.61,17950.41,MEA
+269,Sweet Potato Fries,62,566.12,35099.44,EMEA
+270,Adjustable Pet Feeder,30,642.86,19285.8,EMEA
+271,Garlic Parmesan Roasted Nuts,91,383.05,34857.55,MEA
+272,Strawberry Rhubarb Jam,66,372.49,24584.34,MEA
+273,Grilled Veggie Burgers,18,670.91,12076.38,APAC
+274,Chopping Board,2,576.84,1153.68,EMEA
+275,Wireless Keyboard and Mouse Combo,87,744.44,64766.28,EMEA
+276,LED Flashlight with Rechargeable Batteries,69,34.11,2353.59,APAC
+277,Cacao Nibs,24,898.29,21558.96,MEA
+278,Beef Sirloin Steak,89,947.47,84324.83,LATAM
+279,Garlic Herb Cream Cheese,15,764.85,11472.75,MEA
+280,Ginger Tea,21,735.91,15454.11,APAC
+281,Spicy Tuna Salad,64,159.15,10185.6,MEA
+282,Marinara Sauce,46,544.77,25059.42,LATAM
+283,Cacao Nibs,99,342.98,33955.02,APAC
+284,Adjustable Dumbbells,74,418.91,30999.34,NA
+285,Salt and Pepper Grinder Set,63,169.49,10677.87,APAC
+286,Kids' Activity Book,94,363.06,34127.64,MEA
+287,Glass Tea Pot,71,288.32,20470.72,NA
+288,Handcrafted Wooden Jewelry Box,5,460.18,2300.9,MEA
+289,Dark Chocolate Tart,63,337.77,21279.51,NA
+290,Cranberry Almond Biscotti,28,946.97,26515.16,EMEA
+291,Portable Jump Starter,64,231.94,14844.16,MEA
+292,Stainless Steel Grater,18,758.69,13656.42,NA
+293,Aged White Cheddar Popcorn,11,297.52,3272.72,EMEA
+294,Kid's Fruit Snacks,51,304.58,15533.58,LATAM
+295,Chia Seeds,18,691.16,12440.88,EMEA
+296,Lemon Pepper Seasoning,91,287.64,26175.24,MEA
+297,Classic Caesar Dressing,16,134.98,2159.68,EMEA
+298,Basmati Rice,75,752.47,56435.25,NA
+299,Cranberry Almond Biscotti,25,403.21,10080.25,MEA
+300,Travel Pillow,83,326.22,27076.26,LATAM
+301,Folding Pocket Knife,5,510.68,2553.4,EMEA
+302,Air Purifier,59,645.51,38085.09,APAC
+303,Bicycle Lock,17,833.94,14176.98,APAC
+304,Sliced Cheese,63,70.01,4410.63,NA
+305,Chocolate Fudge Brownie Mix,73,712.71,52027.83,NA
+306,Honey Sesame Chicken Mix,100,638.34,63834.0,EMEA
+307,Smart LED Desk Lamp,61,739.87,45132.07,LATAM
+308,Veggie Lovers Pizza,17,361.03,6137.51,NA
+309,Smart Home Hub,45,706.29,31783.05,MEA
+310,Tandoori Chicken Marinade,82,983.47,80644.54,APAC
+311,Chickpea Salad,1,669.34,669.34,NA
+312,Automatic Pet Feeder,2,904.59,1809.18,LATAM
+313,Spinach and Ricotta Ravioli,64,447.93,28667.52,NA
+314,Adjustable Garden Rake,10,800.61,8006.1,APAC
+315,Yoga Wheel,11,37.28,410.08,LATAM
+316,Microfiber Cleaning Cloths,11,869.23,9561.53,EMEA
+317,Fruit Medley Juice,81,5.11,413.91,APAC
+318,Self-Stirring Mug,65,378.57,24607.05,MEA
+319,Fitness Jump Rope,86,575.13,49461.18,APAC
+320,Elegant Maxi Skirt,45,474.56,21355.2,MEA
+321,Fruit Infuser Water Bottle,35,560.67,19623.45,APAC
+322,Gaming Mousepad,92,971.05,89336.6,NA
+323,Digital Alarm Clock,82,3.26,267.32,LATAM
+324,Coconut Curry Lentil Soup,19,227.53,4323.07,MEA
+325,Portable Refrigerator Freezer,61,313.4,19117.4,EMEA
+326,Chocolate Covered Pretzels,86,415.76,35755.36,EMEA
+327,Chili Lime Seasoning,7,133.27,932.89,MEA
+328,Interactive Plush Toy,27,819.87,22136.49,NA
+329,Baking Soda,99,793.26,78532.74,APAC
+330,Emergency Preparedness Kit,59,551.2,32520.8,MEA
+331,Ribbed Knit Dress,78,628.72,49040.16,NA
+332,Pumpkin Pancake Mix,73,121.43,8864.39,EMEA
+333,Beef Chili,25,932.84,23321.0,LATAM
+334,Compact Shoe Rack,7,386.58,2706.06,EMEA
+335,Fitness Resistance Bands,85,60.65,5155.25,NA
+336,Non-Stick Grill Pan,90,799.31,71937.9,APAC
+337,Whole Grain Mustard,8,731.65,5853.2,EMEA
+338,Frozen Mixed Berries,31,581.59,18029.29,NA
+339,Dill Pickle Chips,44,594.52,26158.88,MEA
+340,Emergency Preparedness Kit,69,910.45,62821.05,NA
+341,Thai Red Curry Paste,53,629.72,33375.16,MEA
+342,Graphic Print Leggings,30,161.33,4839.9,APAC
+343,Honey Graham Crackers,56,26.11,1462.16,APAC
+344,Freestanding Wine Rack,93,318.71,29640.03,NA
+345,Yoga Mat,9,681.04,6129.36,EMEA
+346,Tuna Fish (canned),41,49.75,2039.75,LATAM
+347,Fleece Throw Blanket,95,738.46,70153.7,NA
+348,Electric Kettle with Temperature Control,83,579.35,48086.05,APAC
+349,Sweet Potato Fries,76,957.44,72765.44,LATAM
+350,Creamy Ranch Dressing,53,465.67,24680.51,MEA
+351,Garlic Herb Marinade,95,669.8,63631.0,MEA
+352,Organic Cereal Bars,7,483.68,3385.76,EMEA
+353,Creamy Avocado Dip,71,640.5,45475.5,LATAM
+354,Protein Powder,55,61.58,3386.9,MEA
+355,Organic Tomato Soup,96,91.17,8752.32,NA
+356,Maple Pecan Oatmeal Cookies,4,375.89,1503.56,APAC
+357,Pumpkin Spice Creamer,58,558.83,32412.14,NA
+358,Camping Tent,37,980.01,36260.37,MEA
+359,Sweet Chili Dipping Sauce,51,540.92,27586.92,APAC
+360,Pumpkin Pie Spice,100,293.03,29303.0,LATAM
+361,Vegetable and Cheese Quesadillas,52,348.84,18139.68,LATAM
+362,Body Pillow Case,90,119.08,10717.2,NA
+363,Wireless Earbuds,11,603.19,6635.09,EMEA
+364,Sliced Bell Peppers,93,169.14,15730.02,EMEA
+365,Vegetable Samosas,22,48.78,1073.16,NA
+366,Smart Water Bottle with Hydration Reminder,32,977.58,31282.56,MEA
+367,Almond Flour Cookies,42,886.73,37242.66,MEA
+368,DIY Lip Balm Making Kit,86,553.97,47641.42,APAC
+369,Smart Water Bottle,57,236.44,13477.08,NA
+370,Microwave Popcorn Maker,53,176.31,9344.43,LATAM
+371,Chocolate Hazelnut Spread,71,552.06,39196.26,EMEA
+372,Robot Vacuum Cleaner,91,323.21,29412.11,LATAM
+373,Insulated Lunch Box,84,758.13,63682.92,APAC
+374,Cauliflower Rice Stir-Fry,95,375.42,35664.9,NA
+375,Miso Dressing,64,899.56,57571.84,EMEA
+376,Blue Corn Tortilla Chips,85,456.78,38826.3,NA
+377,Pasta Maker Machine,99,482.28,47745.72,NA
+378,Oven-Baked Potato Chips,36,422.07,15194.52,EMEA
+379,Greek Feta Cheese,39,172.83,6740.37,LATAM
+380,Vegetable Spiralizer,48,509.92,24476.16,EMEA
+381,Portable Dog Water Bottle,12,791.01,9492.12,LATAM
+382,Spicy BBQ Sauce,25,765.31,19132.75,EMEA
+383,Smartphone Tripod with Remote,97,488.13,47348.61,EMEA
+384,Herbal Tea Infuser,78,588.36,45892.08,EMEA
+385,Organic Quinoa Salad,24,77.5,1860.0,EMEA
+386,Chocolate Protein Powder,70,116.36,8145.2,APAC
+387,Samsung Galaxy Smartwatch,84,353.94,29730.96,MEA
+388,Cordless Electric Screwdriver,99,565.46,55980.54,EMEA
+389,Smart Thermostat with Wi-Fi,19,925.06,17576.14,EMEA
+390,Basic V-Neck T-Shirt,49,161.25,7901.25,EMEA
+391,Essential White Button-Up,7,832.87,5830.09,NA
+392,Pasta Maker Machine,57,61.18,3487.26,MEA
+393,Garden Vegetable Chips,71,166.04,11788.84,APAC
+394,Cereal Dispenser with Portion Control,47,156.8,7369.6,EMEA
+395,Frozen Spinach,41,510.32,20923.12,NA
+396,Wire Shelving Unit,41,587.37,24082.17,EMEA
+397,Honeycrisp Apple Chips,83,506.28,42021.24,MEA
+398,Frozen Berry Medley,19,839.89,15957.91,APAC
+399,Mango Chilli Sauce,87,508.79,44264.73,LATAM
+400,Sketchbook,61,496.43,30282.23,EMEA
+401,Portable UV Sterilizer,11,580.21,6382.31,LATAM
+402,Ginger Turmeric Tea,8,968.58,7748.64,MEA
+403,Raspberry Lemonade Mix,27,299.46,8085.42,MEA
+404,Garlic Herb Marinade,52,268.68,13971.36,MEA
+405,French Onion Dip,46,994.17,45731.82,MEA
+406,Collapsible Colander,81,162.65,13174.65,MEA
+407,Casual Long Cardigan,83,45.58,3783.14,NA
+408,Digital Photo Frame,32,799.98,25599.36,MEA
+409,Wireless Gaming Headset,80,472.8,37824.0,NA
+410,Camping Tent,92,711.87,65492.04,EMEA
+411,Chipotle Black Bean Salad,49,378.1,18526.9,EMEA
+412,Chocolate Chip Cookie Mix,20,377.12,7542.4,APAC
+413,Organic Honeycrisp Apples,82,558.38,45787.16,EMEA
+414,Adjustable Yoga Mat Strap,45,149.11,6709.95,EMEA
+415,Savory Oats,69,162.93,11242.17,MEA
+416,Travel Size Toiletry Bottles,57,956.01,54492.57,EMEA
+417,Survival Gear Kit,31,331.89,10288.59,NA
+418,Organic Green Tea,1,606.4,606.4,NA
+419,Classic Chicken Noodle Soup,90,348.25,31342.5,MEA
+420,Kid's Fruit Snacks,33,273.6,9028.8,EMEA
+421,Bamboo Cutting Board Set,56,594.67,33301.52,APAC
+422,Electric Food Steamer,39,302.05,11779.95,EMEA
+423,Coffee Making Kit,10,373.95,3739.5,EMEA
+424,Coconut Cream Pie Yogurt,4,42.71,170.84,NA
+425,Ginger Turmeric Latte Mix,60,95.5,5730.0,APAC
+426,Zucchini Noodles,29,878.55,25477.95,MEA
+427,Classic Baseball Cap,81,170.3,13794.3,MEA
+428,Streaming Device,67,187.84,12585.28,MEA
+429,Wall Art,94,388.25,36495.5,LATAM
+430,Memory Card,38,262.82,9987.16,MEA
+431,Spinach and Cheese Stuffed Shells,100,524.4,52440.0,MEA
+432,Pet Waterer with Filtration,39,107.62,4197.18,LATAM
+433,Insulated Wine Tote,57,806.34,45961.38,APAC
+434,Habanero Hot Sauce,53,883.6,46830.8,NA
+435,Stainless Steel Water Bottle,43,217.43,9349.49,EMEA
+436,Wall Decals for Kids,27,799.27,21580.29,LATAM
+437,Roasted Garlic,8,714.86,5718.88,EMEA
+438,Chili Lime Shrimp,17,231.89,3942.13,MEA
+439,Woven Storage Baskets,47,835.68,39276.96,MEA
+440,Electric Heat Pad,74,831.46,61528.04,NA
+441,Vanilla Almond Granola,99,235.02,23266.98,EMEA
+442,Non-Toxic Crayons for Kids,39,213.72,8335.08,EMEA
+443,Tea Infuser Bottle,16,529.74,8475.84,LATAM
+444,Pesto Pasta Salad,80,691.52,55321.6,EMEA
+445,Mini Cordless Vacuum Cleaner,67,821.1,55013.7,LATAM
+446,Kitchen Scale,53,576.55,30557.15,MEA
+447,Organic Cereal Bars,1,56.07,56.07,NA
+448,Faux Fur Throw Blanket,43,28.79,1237.97,NA
+449,Adjustable Pedicure Footrest,89,410.98,36577.22,EMEA
+450,Peach & Mango Salsa,68,631.46,42939.28,LATAM
+451,Chia Seeds,20,49.29,985.8,MEA
+452,Bamboo Utensil Holder,14,305.72,4280.08,EMEA
+453,Gluten-Free Pancake Mix,70,178.51,12495.7,MEA
+454,Ground Turkey,23,423.28,9735.44,NA
+455,Children's Gardening Set,18,292.66,5267.88,NA
+456,High-Waisted Skirt,36,30.89,1112.04,EMEA
+457,Pasta Salad Kit,39,802.83,31310.37,NA
+458,Magnetic Puzzle Board,64,46.53,2977.92,MEA
+459,Almond Joy Munch Bars,14,42.49,594.86,APAC
+460,Black Bean Soup,45,705.42,31743.9,APAC
+461,Sweet Pea Hummus,59,715.03,42186.77,NA
+462,Floral Summer Dress,66,710.17,46871.22,APAC
+463,Glass Water Bottle,8,591.91,4735.28,EMEA
+464,Yoga Blocks,40,469.33,18773.2,APAC
+465,Portable Solar Path Lights,81,528.06,42772.86,APAC
+466,Basil Pesto Pasta,2,444.09,888.18,MEA
+467,Maple Breakfast Sausage,22,582.7,12819.4,MEA
+468,Mini Air Hockey Table,32,655.83,20986.56,LATAM
+469,Chocolate Chip Pancake Mix,20,420.89,8417.8,LATAM
+470,Portable UV Sterilizer,98,557.11,54596.78,EMEA
+471,Tofu,68,127.81,8691.08,NA
+472,Digital Kitchen Timer,91,636.14,57888.74,MEA
+473,Laundry Detergent,69,774.02,53407.38,APAC
+474,Caramel Apple Taffy,98,588.11,57634.78,NA
+475,Sweet Potato Chips,25,697.49,17437.25,APAC
+476,Aeropress Coffee Maker,60,344.63,20677.8,LATAM
+477,Plant-Based Protein Bars,91,908.86,82706.26,MEA
+478,Chicken Fajita Kit,7,204.51,1431.57,LATAM
+479,Gardening Gloves,14,946.2,13246.8,NA
+480,Strawberry Rhubarb Jam,96,721.63,69276.48,NA
+481,Tomato Sauce,88,588.95,51827.6,MEA
+482,Luxury Bath Robe,24,681.53,16356.72,NA
+483,Air Fryer,28,379.22,10618.16,LATAM
+484,Herb-Infused Olive Oil,29,265.31,7693.99,EMEA
+485,Organic Baby Carrots,36,497.28,17902.08,MEA
+486,Portable Solar Phone Charger,83,270.28,22433.24,APAC
+487,Cinnamon Sugar Mix,35,862.31,30180.85,APAC
+488,Berries Medley,17,979.48,16651.16,MEA
+489,Chocolate Syrup,75,983.97,73797.75,APAC
+490,Organic Granola,25,478.1,11952.5,MEA
+491,High-Low Hem Tee,15,192.4,2886.0,LATAM
+492,Feta Cheese Crumbles,28,881.08,24670.24,EMEA
+493,Wire Shelving Unit,52,602.51,31330.52,APAC
+494,Classic Cheeseburger Mix,30,995.79,29873.7,EMEA
+495,LED Christmas Tree Lights,69,734.3,50666.7,NA
+496,Quinoa and Kale Salad Kit,8,925.53,7404.24,APAC
+497,Oven-Baked Potato Chips,75,84.2,6315.0,NA
+498,Frozen Mixed Berries,16,168.08,2689.28,LATAM
+499,Compressible Packing Cubes,82,379.82,31145.24,NA
+500,Electric Stool Heater,18,349.65,6293.7,LATAM
+501,Rice Pudding,5,672.27,3361.35,NA
+502,Organic Brown Sugar,75,444.59,33344.25,APAC
+503,LED Disco Ball Light,30,159.17,4775.1,LATAM
+504,Smartphone Photography Tripod,81,13.59,1100.79,LATAM
+505,Lemon Herb Quinoa,44,667.71,29379.24,NA
+506,Travel Hair Straightener,70,124.67,8726.9,LATAM
+507,Portable Bluetooth Keyboard,72,705.21,50775.12,EMEA
+508,LED Table Lamp,21,291.03,6111.63,EMEA
+509,French Bread,68,13.8,938.4,MEA
+510,Habanero Hot Sauce,94,293.83,27620.02,LATAM
+511,Gardening Fairy Figurines,64,857.24,54863.36,MEA
+512,Underwater Camera,95,324.38,30816.1,APAC
+513,Slim Wallet,82,451.03,36984.46,APAC
+514,Maple Almond Granola,77,694.04,53441.08,APAC
+515,Natural Peanut Butter,41,65.16,2671.56,APAC
+516,Key Finder,52,969.92,50435.84,EMEA
+517,Smartphone Gimbal Stabilizer,3,549.52,1648.56,APAC
+518,LED Strip Lights Kit,12,481.33,5775.96,NA
+519,Outdoor Adventure Backpack,40,75.19,3007.6,EMEA
+520,Teriyaki Beef Jerky,32,270.35,8651.2,MEA
+521,Apple Cinnamon Breakfast Muffins,67,617.32,41360.44,APAC
+522,Grass Fed Beef Patties,64,325.51,20832.64,EMEA
+523,High-Speed Blender,56,197.53,11061.68,EMEA
+524,Solar Charger,29,469.92,13627.68,EMEA
+525,Wrist Support Brace,75,841.46,63109.5,LATAM
+526,Energy Bites,2,895.78,1791.56,APAC
+527,Yoga Strap,80,107.85,8628.0,EMEA
+528,Sporty Slide Sandals,44,909.76,40029.44,MEA
+529,Cinnamon Ice Cream,17,469.77,7986.09,NA
+530,Chocolate Mint Cookies,16,252.82,4045.12,LATAM
+531,Lasagna Noodles,60,252.86,15171.6,LATAM
+532,Kids' Outdoor Explorer Kit,31,331.3,10270.3,APAC
+533,Red Lentils,81,301.23,24399.63,MEA
+534,Pocket Blanket,11,970.32,10673.52,LATAM
+535,Snack Container Set,62,610.67,37861.54,LATAM
+536,Relaxed Fit Henley Shirt,39,670.93,26166.27,NA
+537,Chili Beans in Sauce,13,142.53,1852.89,LATAM
+538,Lemon Dill Salmon,47,587.08,27592.76,EMEA
+539,Chilli Lime Corn on the Cob,43,792.75,34088.25,NA
+540,Chili Lime Seasoning,12,809.57,9714.84,LATAM
+541,Wireless Charger Stand,35,774.65,27112.75,EMEA
+542,Silicone Ice Cube Tray,68,517.71,35204.28,NA
+543,Honey Sesame Chicken,77,160.91,12390.07,MEA
+544,Desk Organizer Set,85,578.35,49159.75,NA
+545,Sriracha Sauce,38,100.89,3833.82,MEA
+546,Teriyaki Tofu Stir-Fry,32,364.92,11677.44,NA
+547,Kids' Science Experiment Kit,56,798.67,44725.52,LATAM
+548,Beach Cover-Up,93,10.77,1001.61,EMEA
+549,Rechargeable Hand Warmer,79,3.17,250.43,APAC
+550,Sweet Corn,54,804.48,43441.92,LATAM
+551,Car Phone Mount,79,823.55,65060.45,EMEA
+552,Kids' Science Experiment Kit,39,196.9,7679.1,EMEA
+553,Classic Watch,6,146.64,879.84,MEA
+554,Balsamic Salad Dressing,14,952.41,13333.74,MEA
+555,Pepperoni Pizza Roll-Ups,45,9.63,433.35,NA
+556,Hand Mixer,22,483.61,10639.42,EMEA
+557,Fashionable Scarves Set,69,573.65,39581.85,LATAM
+558,Rechargeable Hand Warmer,3,715.03,2145.09,MEA
+559,Self-Cleaning Water Bottle,16,427.81,6844.96,MEA
+560,Peanut Butter Chocolate Clusters,59,785.85,46365.15,APAC
+561,Kettle Corn Popcorn,93,216.14,20101.02,NA
+562,Low-Fat Yogurt,33,724.56,23910.48,APAC
+563,Blueberry Muffin Mix,3,20.21,60.63,EMEA
+564,Basil Tomato Soup,94,777.78,73111.32,APAC
+565,Automatic Pet Feeder,28,262.99,7363.72,LATAM
+566,Sliced Avocado,11,259.72,2856.92,APAC
+567,Children's Musical Instrument Set,3,642.27,1926.81,EMEA
+568,Laptop Stand,64,375.6,24038.4,MEA
+569,Foldable Electric Scooter,77,16.65,1282.05,NA
+570,Interactive Robot Toy,11,803.51,8838.61,NA
+571,Ice Pack,68,903.32,61425.76,APAC
+572,Organic Chia Seeds,73,768.98,56135.54,EMEA
+573,Creamy Avocado Dip,87,473.27,41174.49,APAC
+574,Frozen Acai Bowl,14,914.03,12796.42,LATAM
+575,Portable Leaf Blower,89,529.0,47081.0,APAC
+576,Smoked Paprika,30,590.42,17712.6,APAC
+577,Arcade Game Machine,18,162.53,2925.54,MEA
+578,Zesty Cilantro Lime Dressing,30,519.99,15599.7,EMEA
+579,Pet Hair Vacuum Cleaner Attachment,89,294.7,26228.3,EMEA
+580,Coconut Cream,32,728.31,23305.92,APAC
+581,Low-Fat Yogurt,91,98.57,8969.87,LATAM
+582,Children's Musical Instrument Set,38,42.98,1633.24,MEA
+583,Under Desk Footrest,76,324.02,24625.52,NA
+584,Chocolate Syrup,98,608.58,59640.84,MEA
+585,Collapsible Pet Dog Bowl,44,68.65,3020.6,NA
+586,Adjustable Pedicure Footrest,63,310.41,19555.83,NA
+587,Chipotle Sauce,3,742.03,2226.09,LATAM
+588,Teriyaki Sauce,40,149.33,5973.2,MEA
+589,Apple Cinnamon Granola,71,928.53,65925.63,LATAM
+590,Rustic Italian Bread,20,448.95,8979.0,NA
+591,Maple Bacon Jerky,9,735.36,6618.24,LATAM
+592,Organic Black Beans,1,124.65,124.65,LATAM
+593,Multifunctional Pocket Tool,19,336.88,6400.72,MEA
+594,Noise-Canceling Earbuds,89,889.27,79145.03,NA
+595,Beet Salad,13,722.76,9395.88,MEA
+596,Water Bottle with Built-in Fruit Infuser,33,276.5,9124.5,MEA
+597,Mini Hand Gesture Drone,73,727.67,53119.91,LATAM
+598,Self-Inflating Camping Mattress,96,527.99,50687.04,NA
+599,Electric Rice Cooker,71,977.63,69411.73,APAC
+600,Energy Protein Bars,79,182.17,14391.43,EMEA
+601,Garlic Naan Bread,8,560.75,4486.0,NA
+602,Kids' Craft Supplies Set,86,844.6,72635.6,EMEA
+603,Luxury Rolling Makeup Case,19,849.78,16145.82,APAC
+604,Chocolate Hazelnut Spread,38,586.18,22274.84,EMEA
+605,Creamy Coleslaw Mix,29,689.81,20004.49,APAC
+606,Peanut Butter Chocolate Chip Bars,23,19.41,446.43,MEA
+607,Dark Chocolate Covered Almonds,24,774.12,18578.88,EMEA
+608,Fruit Infuser Water Bottle,94,7.33,689.02,APAC
+609,Smartphone Holder for Car,75,150.68,11301.0,NA
+610,Children's Educational Workbook,90,370.51,33345.9,LATAM
+611,Smart Plant Monitor,21,583.51,12253.71,APAC
+612,Pumpkin Seeds,47,254.43,11958.21,LATAM
+613,Portable Air Compressor,16,682.4,10918.4,LATAM
+614,Tuna Fish (canned),82,235.77,19333.14,NA
+615,Outdoor Portable Fire Pit,71,638.36,45323.56,NA
+616,Grilled Vegetable Medley,2,846.16,1692.32,MEA
+617,Pet Grooming Kit,69,254.66,17571.54,NA
+618,Savory Oats,91,197.72,17992.52,NA
+619,Collapsible Camping Cup,51,418.12,21324.12,APAC
+620,Wireless Range Extender,35,668.56,23399.6,MEA
+621,Handmade Leather Journal,57,270.42,15413.94,MEA
+622,Maple Bacon Jerky,44,321.52,14146.88,APAC
+623,Puzzle 3D Model Kit,81,137.9,11169.9,NA
+624,Rice Noodles,55,318.71,17529.05,LATAM
+625,Classic Vanilla Fudge,56,149.32,8361.92,MEA
+626,Floral Summer Dress,79,872.32,68913.28,APAC
+627,Portable Camping Stove,5,991.48,4957.4,MEA
+628,Coconut Rice,77,380.37,29288.49,MEA
+629,Honey Graham Crackers,1,209.57,209.57,APAC
+630,Maple Almond Butter,43,656.15,28214.45,APAC
+631,Portable Massage Gun,91,205.44,18695.04,EMEA
+632,Home Cleaning Robot,59,772.35,45568.65,MEA
+633,Backpacking Tent,63,972.37,61259.31,EMEA
+634,Vintage Graphic Tee,55,610.03,33551.65,APAC
+635,Bamboo Charcoal Air Purifier Bags,26,95.9,2493.4,APAC
+636,Vegetable Fried Rice,29,245.27,7112.83,EMEA
+637,Classic Caesar Salad Kit,27,968.87,26159.49,NA
+638,Hot Dog Buns,98,797.48,78153.04,APAC
+639,Home Karaoke System,61,810.86,49462.46,NA
+640,Garam Masala Spice Blend,20,132.94,2658.8,LATAM
+641,Oven Mitts,5,73.47,367.35,NA
+642,Portable Air Purifier,2,58.96,117.92,APAC
+643,Kettle Chip Variety Pack,93,445.16,41399.88,MEA
+644,Electric Bike,6,323.54,1941.24,LATAM
+645,Tailored Dress Pants,60,501.3,30078.0,NA
+646,Pumpkin Seeds,93,152.32,14165.76,LATAM
+647,Sunflower Seeds,55,921.94,50706.7,NA
+648,Vegetable Samosas,44,569.34,25050.96,NA
+649,Adjustable Dumbbells,36,21.96,790.56,LATAM
+650,Casual Long Cardigan,93,837.05,77845.65,LATAM
+651,Granola Bars,24,921.85,22124.4,EMEA
+652,Tofu,91,132.29,12038.39,LATAM
+653,Matcha Green Tea Powder,1,170.45,170.45,EMEA
+654,Classic Vanilla Fudge,45,187.2,8424.0,APAC
+655,Foam Roller for Muscle Recovery,90,172.34,15510.6,MEA
+656,Electric Screwdriver,78,723.43,56427.54,LATAM
+657,Electric Knife,85,203.38,17287.3,APAC
+658,Kale Salad with Lemon Dressing,1,168.9,168.9,EMEA
+659,Zucchini,71,621.62,44135.02,EMEA
+660,Chocolate Protein Powder,8,986.26,7890.08,NA
+661,Hibiscus Tea Bags,36,767.93,27645.48,EMEA
+662,Bamboo Toothbrush,78,277.61,21653.58,MEA
+663,Natural Peanut Butter,64,865.59,55397.76,NA
+664,Poppy Seed Dressing,56,203.32,11385.92,APAC
+665,Sweet and Sour Sauce,63,204.15,12861.45,LATAM
+666,Frozen Edamame,88,216.4,19043.2,LATAM
+667,Almond Coconut Granola,95,271.55,25797.25,LATAM
+668,Chocolate Fudge Ice Cream,14,493.8,6913.2,APAC
+669,Eco-Friendly Disposable Plates,58,253.5,14703.0,LATAM
+670,Fleece Lined Leggings,77,120.85,9305.45,MEA
+671,Electric Egg Cooker,97,137.59,13346.23,LATAM
+672,Stainless Steel BBQ Grill Set,96,587.34,56384.64,APAC
+673,Ranch Dressing,48,516.08,24771.84,NA
+674,Spinach and Feta Wraps,13,506.22,6580.86,APAC
+675,Children's Musical Instrument Set,97,451.07,43753.79,NA
+676,Tahini,52,703.5,36582.0,LATAM
+677,Organic Whole Grain Oats,60,20.85,1251.0,LATAM
+678,Maple Pecan Pancake Mix,24,88.35,2120.4,LATAM
+679,Reclining Camping Chair,70,584.02,40881.4,NA
+680,Vintage Graphic Tee,68,524.11,35639.48,EMEA
+681,Sweet Chili Thai Sauce,1,140.81,140.81,LATAM
+682,Portable Air Pump,43,825.13,35480.59,NA
+683,Lightweight Workout Tank,76,182.33,13857.08,APAC
+684,Adjustable Pet Grooming Table,12,374.29,4491.48,EMEA
+685,Comfy Slippers,77,453.34,34907.18,NA
+686,Shower Curtain Hooks,79,345.56,27299.24,EMEA
+687,Reusable Produce Bags Set,100,632.31,63231.0,LATAM
+688,Sunglasses Case,31,932.8,28916.8,APAC
+689,Applewood Smoked Bacon,78,866.76,67607.28,NA
+690,Foot Massager Machine,96,524.68,50369.28,EMEA
+691,Mango Sticky Rice Dessert,23,194.2,4466.6,LATAM
+692,Applewood Smoked Bacon,92,646.41,59469.72,MEA
+693,Spicy Tuna Salad,90,848.45,76360.5,LATAM
+694,Honey Sesame Chicken Mix,34,23.31,792.54,MEA
+695,Fashionable Fanny Pack,44,254.19,11184.36,EMEA
+696,Coconut Lime Rice,11,872.15,9593.65,NA
+697,Classic Leather Wallet,32,243.05,7777.6,NA
+698,Crispy Onion Rings,86,395.55,34017.3,APAC
+699,Honey Sesame Chicken Mix,79,473.37,37396.23,NA
+700,Mediterranean Chickpea Bowl,49,582.17,28526.33,APAC
+701,Mediterranean Couscous,9,490.16,4411.44,LATAM
+702,Italian Breadsticks,48,983.21,47194.08,APAC
+703,Children's Backpack,90,242.27,21804.3,APAC
+704,Warm Knit Beanie,35,304.69,10664.15,APAC
+705,Memory Foam Pillow,62,207.11,12840.82,MEA
+706,Paprika,12,912.34,10948.08,NA
+707,Athletic Compression Tights,12,205.5,2466.0,EMEA
+708,Fettuccine Alfredo Dinner Kit,82,240.36,19709.52,NA
+709,Sea Salt Caramel Brownie,68,160.03,10882.04,NA
+710,Wireless Earbuds,2,689.15,1378.3,EMEA
+711,Bluetooth Sleep Headphones,65,234.29,15228.85,APAC
+712,Personal Blender,92,878.61,80832.12,EMEA
+713,Marinara Sauce,3,540.71,1622.13,EMEA
+714,Wireless Charging Pad,79,363.86,28744.94,APAC
+715,Fishing Tackle Box,50,727.9,36395.0,MEA
+716,Digital Food Thermometer,41,938.24,38467.84,EMEA
+717,Garden Vegetable Chips,91,611.42,55639.22,NA
+718,Sweet Chili Sauce,87,780.43,67897.41,APAC
+719,Classic Cheeseburger Mix,71,723.43,51363.53,NA
+720,Summer Tank Dress,40,904.79,36191.6,APAC
+721,Organic Coconut Oil,70,272.26,19058.2,MEA
+722,Cinnamon Raisin Bagels,67,615.91,41265.97,EMEA
+723,Spicy Snack Mix,6,383.19,2299.14,EMEA
+724,Wall-Mounted Wine Rack,32,27.3,873.6,EMEA
+725,Honeycrisp Apples,34,327.5,11135.0,LATAM
+726,Mango Sticky Rice Dessert,45,971.24,43705.8,MEA
+727,Phone Case,66,175.94,11612.04,NA
+728,Roasted Garlic Aioli,89,277.12,24663.68,EMEA
+729,Camping Chair,66,598.89,39526.74,NA
+730,Mini Air Purifier,56,965.11,54046.16,MEA
+731,Luxury Bathrobe,35,155.98,5459.3,EMEA
+732,Safety First Aid Kit,35,854.48,29906.8,MEA
+733,Car Windshield Sun Shade,42,171.02,7182.84,MEA
+734,Fresh Basil Pesto,43,687.99,29583.57,LATAM
+735,Honey mustard chicken tenders,53,531.26,28156.78,APAC
+736,Measuring Cups Set,96,238.95,22939.2,APAC
+737,Organic Fruit Salad,79,958.85,75749.15,MEA
+738,Snack Container Set,23,678.5,15605.5,LATAM
+739,Ground Turkey,28,782.51,21910.28,NA
+740,Tofu,8,224.43,1795.44,APAC
+741,Pasta (Linguine),33,57.51,1897.83,APAC
+742,Portable Dog Water Bottle,14,594.62,8324.68,APAC
+743,Cranberry Juice,96,312.24,29975.04,NA
+744,Professional Chef Knife,19,647.31,12298.89,APAC
+745,Rustic Wooden Picture Frame,16,48.21,771.36,NA
+746,Rechargeable Electric Screwdriver,15,144.02,2160.3,MEA
+747,Adjustable Yoga Mat Strap,5,372.76,1863.8,MEA
+748,Energy Protein Bars,15,416.22,6243.3,EMEA
+749,Almond Butter Cookies,3,972.79,2918.37,LATAM
+750,Spicy Tuna Rolls,36,774.33,27875.88,EMEA
+751,Wall Calendar,40,862.16,34486.4,NA
+752,Basil Pesto Pasta,34,550.09,18703.06,MEA
+753,Organic Quinoa Salad,9,802.94,7226.46,APAC
+754,Peach Salsa,92,666.6,61327.2,LATAM
+755,Ethically-Sourced Coffee Beans,21,99.89,2097.69,EMEA
+756,Laptop Stand,66,310.43,20488.38,NA
+757,Essential Oils Diffuser Necklace,35,147.03,5146.05,EMEA
+758,Pet Camera with Treat Dispenser,27,351.79,9498.33,APAC
+759,Fruit Medley Juice,67,898.9,60226.3,LATAM
+760,LED Desk Lamp with USB Charging Port,78,603.99,47111.22,EMEA
+761,Colorful Post-It Notes Set,15,991.57,14873.55,APAC
+762,Lightweight Backpacking Tent,2,162.75,325.5,LATAM
+763,Raspberry Vanilla Greek Yogurt,10,872.51,8725.1,MEA
+764,Cucumber,34,618.62,21033.08,MEA
+765,Pork Tenderloin,2,666.3,1332.6,MEA
+766,Bluetooth Sleep Headphones,66,368.97,24352.02,APAC
+767,Cabbage Slaw Mix,1,917.77,917.77,APAC
+768,Mixed Nuts,1,162.88,162.88,EMEA
+769,Air Fryer,62,833.84,51698.08,APAC
+770,Travel Shoe Bags Set,78,617.35,48153.3,MEA
+771,Children's Educational Puzzle,69,923.05,63690.45,EMEA
+772,Garlic Parmesan Roasted Nuts,1,151.29,151.29,LATAM
+773,Californian Raisins,37,17.17,635.29,MEA
+774,Artisan Pickles,24,954.66,22911.84,EMEA
+775,Almond Flour Bread Mix,18,854.55,15381.9,NA
+776,Sweet Chili Dipping Sauce,54,447.14,24145.56,EMEA
+777,Elegant Lace Dress,73,90.36,6596.28,NA
+778,Induction Cooktop,80,414.9,33192.0,LATAM
+779,Avocados,9,668.49,6016.41,APAC
+780,Chocolate Mint Thins,25,375.3,9382.5,NA
+781,Roasted Chickpeas,65,345.02,22426.3,EMEA
+782,Children's Educational Workbook,52,636.52,33099.04,LATAM
+783,Baking Soda,8,157.71,1261.68,EMEA
+784,Tomato Sauce,74,488.97,36183.78,MEA
+785,Rechargeable Electric Toothbrush,51,477.14,24334.14,MEA
+786,Arcade Game Machine,27,776.18,20956.86,APAC
+787,Smart Doorbell,59,200.46,11827.14,APAC
+788,Tomatillo Salsa,99,778.02,77023.98,LATAM
+789,Incense Holder,53,753.18,39918.54,LATAM
+790,Coconut Rice,27,545.16,14719.32,APAC
+791,Canvas High-Top Sneakers,31,935.89,29012.59,LATAM
+792,Fruit and Nut Energy Bites,59,556.93,32858.87,LATAM
+793,Cotton Tote Bag Set,68,217.18,14768.24,EMEA
+794,Rustic Italian Bread,90,630.78,56770.2,NA
+795,Smoked Gouda Cheese,97,756.39,73369.83,NA
+796,Leather Biker Jacket,36,316.29,11386.44,LATAM
+797,Juice Extractor,84,370.89,31154.76,EMEA
+798,Raspberry Lemonade Mix,12,113.98,1367.76,MEA
+799,Infrared Thermometer Gun,5,937.77,4688.85,APAC
+800,Organic Green Tea,54,497.39,26859.06,LATAM
+801,Honey Sesame Chicken Mix,4,504.1,2016.4,APAC
+802,Coconut Water,94,449.55,42257.7,EMEA
+803,Men's Waterproof Hiking Boots,1,671.65,671.65,EMEA
+804,Induction Cooktop,45,115.55,5199.75,MEA
+805,Organic Coconut Flour,51,600.83,30642.33,EMEA
+806,Pistachios,11,217.33,2390.63,EMEA
+807,Chocolate Mint Thins,97,859.05,83327.85,EMEA
+808,Camping Lantern,31,693.54,21499.74,LATAM
+809,Beef Enchilada Casserole,2,915.54,1831.08,LATAM
+810,Sweet Potatoes,52,415.12,21586.24,EMEA
+811,Graphic Hoodie,33,471.25,15551.25,LATAM
+812,Digital Stopwatch Timer,52,671.74,34930.48,APAC
+813,Buffalo Cauliflower Wings,80,266.47,21317.6,EMEA
+814,Mediterranean Chickpea Bowl,87,114.09,9925.83,LATAM
+815,Lentil Vegetable Stew,68,415.28,28239.04,APAC
+816,Rain Jacket,13,587.56,7638.28,LATAM
+817,Electric Nail File Kit,47,769.75,36178.25,LATAM
+818,Balsamic Glaze,50,713.16,35658.0,LATAM
+819,Black Bean Spaghetti,3,153.48,460.44,MEA
+820,Athletic Jogging Jacket,94,713.93,67109.42,LATAM
+821,Chocolate Peanut Butter Cups,4,488.37,1953.48,NA
+822,Mini Electric Kettle,20,526.67,10533.4,NA
+823,Sweet Chili Dipping Sauce,11,994.3,10937.3,LATAM
+824,Herbal Tea Variety Pack,70,548.14,38369.8,NA
+825,Pet Grooming Brush,40,612.86,24514.4,MEA
+826,Children's Backpack,55,898.36,49409.8,APAC
+827,Digital Meat Thermometer,76,359.32,27308.32,NA
+828,Plant Pot Drip Trays,25,93.93,2348.25,EMEA
+829,Fruit & Nut Trail Mix,92,457.14,42056.88,LATAM
+830,Herbed Mushroom Risotto,67,215.63,14447.21,LATAM
+831,Fitness Activity Journal,77,231.8,17848.6,EMEA
+832,LED Flashlight,32,13.01,416.32,APAC
+833,Asian Stir-Fry Vegetables,99,230.54,22823.46,MEA
+834,Board Game,4,746.63,2986.52,EMEA
+835,Smartphone UV Sanitizer,82,928.74,76156.68,LATAM
+836,Spicy Italian Sausage,46,216.88,9976.48,APAC
+837,Savory Trail Mix,14,399.94,5599.16,MEA
+838,Bamboo Cotton Tank Top,57,992.82,56590.74,EMEA
+839,Organic Black Bean Burger,100,168.6,16860.0,MEA
+840,Golf Putting Green,50,549.67,27483.5,APAC
+841,Pet Carrier Backpack,76,923.87,70214.12,NA
+842,Oven-Baked Chicken Tenders,20,245.41,4908.2,LATAM
+843,Noise-Canceling Headphones,76,419.67,31894.92,MEA
+844,Wireless Gaming Mouse,50,636.36,31818.0,LATAM
+845,Black Bean Soup,9,670.46,6034.14,EMEA
+846,Maple Almond Yogurt,95,954.7,90696.5,APAC
+847,Digital Photo Frame,60,359.95,21597.0,APAC
+848,Spicy Snack Mix,73,895.25,65353.25,NA
+849,Digital Alarm Clock,21,882.62,18535.02,APAC
+850,Canvas Tote Bag,1,158.51,158.51,EMEA
+851,Taro Chips,24,73.86,1772.64,MEA
+852,Lemon Lime Sparkling Water,66,743.02,49039.32,MEA
+853,Running Shorts,71,762.81,54159.51,NA
+854,Chocolate Coconut Granola,50,730.94,36547.0,MEA
+855,Athletic Jogging Jacket,73,964.51,70409.23,MEA
+856,Pineapple Salsa,40,769.18,30767.2,MEA
+857,Portable Massage Gun,85,218.53,18575.05,EMEA
+858,Tennis Racket,100,117.86,11786.0,EMEA
+859,Puzzle 3D Model Kit,66,807.6,53301.6,EMEA
+860,Fridge Magnet Set,66,74.87,4941.42,NA
+861,Kids' Science Experiment Kit,1,715.88,715.88,LATAM
+862,Teriyaki Tofu Stir-Fry,71,560.53,39797.63,EMEA
+863,Creamy Garlic Dressing,9,617.69,5559.21,EMEA
+864,Multi-Purpose Marine Rope,94,184.59,17351.46,EMEA
+865,Tomato Paste,59,549.28,32407.52,MEA
+866,Coconut Curry Chicken,82,851.74,69842.68,EMEA
+867,Vegetable Fried Rice Mix,69,109.5,7555.5,NA
+868,Peach Slices in Syrup,28,914.82,25614.96,EMEA
+869,Cajun Seasoning,6,178.98,1073.88,LATAM
+870,Toasted Coconut Granola,54,791.12,42720.48,LATAM
+871,Mediterranean Olives,13,579.27,7530.51,MEA
+872,Teriyaki Sauce,92,659.37,60662.04,EMEA
+873,Patterned Knit Scarf,96,805.9,77366.4,APAC
+874,Honey Butter Popcorn,20,755.67,15113.4,MEA
+875,Portable Charcoal Grill,24,667.25,16014.0,APAC
+876,Oven Mitts with Pocket,6,959.49,5756.94,APAC
+877,Thai Peanut Noodles,47,977.34,45934.98,APAC
+878,DIY Lip Balm Making Kit,74,165.33,12234.42,LATAM
+879,Granola Cereal,40,860.16,34406.4,APAC
+880,Organic Green Apples,30,52.44,1573.2,MEA
+881,Bicycle Lock,51,618.46,31541.46,EMEA
+882,Thai Basil Fried Rice,23,407.09,9363.07,MEA
+883,Ankle Boots,63,206.77,13026.51,APAC
+884,Sweet Pea Hummus,95,933.91,88721.45,NA
+885,Pork Tenderloin,20,703.84,14076.8,EMEA
+886,Jump Rope with Counter,52,913.63,47508.76,NA
+887,Garlic & Herb Goat Cheese,6,896.0,5376.0,NA
+888,Cacao Powder,28,461.26,12915.28,APAC
+889,Sports Windbreaker,91,171.71,15625.61,APAC
+890,Fitness Resistance Bands,57,336.91,19203.87,APAC
+891,Children's Garden Tool Set,71,702.83,49900.93,APAC
+892,Digital Drawing Tablet,17,907.83,15433.11,APAC
+893,Garden Tool Set with Carrying Bag,88,127.93,11257.84,NA
+894,Oven-Baked Parmesan Zucchini,54,154.73,8355.42,APAC
+895,Oven-Baked Parmesan Zucchini,44,269.96,11878.24,NA
+896,Athletic Compression Tights,77,357.35,27515.95,NA
+897,USB Flash Drive,11,326.94,3596.34,APAC
+898,Almond Butter Crunch Bar,42,41.96,1762.32,EMEA
+899,Pet Tracking Collar,22,116.4,2560.8,NA
+900,Electronic Drum Kit,97,270.34,26222.98,NA
+901,Noise Reduction Headphones,84,962.68,80865.12,NA
+902,Carrot Ginger Soup,69,489.14,33750.66,MEA
+903,Savory Oatmeal Cups,16,82.48,1319.68,NA
+904,Heated Throw Blanket,39,498.34,19435.26,APAC
+905,Chocolate Mint Cookies,60,266.84,16010.4,APAC
+906,DIY Lip Balm Kit,97,468.61,45455.17,EMEA
+907,Floral Wrap Top,76,609.25,46303.0,EMEA
+908,Glass Water Bottle,35,69.92,2447.2,APAC
+909,Pet Water Fountain,78,908.33,70849.74,MEA
+910,Dish Rack,68,845.87,57519.16,APAC
+911,Green Smoothie Mix,41,124.17,5090.97,APAC
+912,Electric Milk Frother,85,358.17,30444.45,LATAM
+913,Vegetable Quinoa Bowl,56,175.94,9852.64,MEA
+914,Creamy Garlic Dressing,9,416.78,3751.02,NA
+915,Pesto Pasta Sauce,40,169.56,6782.4,APAC
+916,Fitness Resistance Bands Set,63,418.34,26355.42,LATAM
+917,Vegetable Broth,19,708.58,13463.02,MEA
+918,Wine Decanter,5,126.53,632.65,MEA
+919,Snack Container Set,84,872.39,73280.76,MEA
+920,Water-Resistant Bluetooth Speaker,91,575.75,52393.25,LATAM
+921,Electric Kettle,79,956.84,75590.36,NA
+922,Car Vacuum Cleaner,4,764.83,3059.32,LATAM
+923,Creamy Garlic Dressing,82,800.53,65643.46,EMEA
+924,Magnetic Phone Case,68,32.66,2220.88,NA
+925,Two-Tier Fruit Basket,20,157.55,3151.0,APAC
+926,Chicken Broth,57,353.65,20158.05,EMEA
+927,Garden Hose Reel,55,408.76,22481.8,APAC
+928,Pesto Genovese,16,151.97,2431.52,LATAM
+929,Bock Beer Mustard,37,623.68,23076.16,NA
+930,Hiking Water Bottle with Filter,68,272.3,18516.4,MEA
+931,Honey Sriracha Chicken Bites,94,464.81,43692.14,APAC
+932,Almond Butter Cups,76,32.17,2444.92,EMEA
+933,Smoky BBQ Jackfruit,19,836.28,15889.32,APAC
+934,Set of Measuring Spoons,99,538.55,53316.45,APAC
+935,Picnic Blanket,61,586.45,35773.45,MEA
+936,Maple Glazed Carrots,77,204.62,15755.74,EMEA
+937,Lightweight Rain Jacket,71,214.05,15197.55,NA
+938,Electric Screwdriver,2,138.06,276.12,APAC
+939,Thai Basil Fried Rice,30,962.92,28887.6,APAC
+940,Apricot Jam,20,617.96,12359.2,LATAM
+941,Chili Lime Corn Chips,5,405.61,2028.05,MEA
+942,Sweet Potato & Kale Hash,37,192.81,7133.97,EMEA
+943,Portable Phone Charger,88,15.48,1362.24,LATAM
+944,Wireless Security System,37,3.83,141.71,EMEA
+945,Stylish Wide-Leg Trousers,74,495.49,36666.26,EMEA
+946,Teriyaki Tofu Stir-Fry,94,952.77,89560.38,NA
+947,Herbal Tea Set,44,632.28,27820.32,APAC
+948,Chili Garlic Sauce,2,612.13,1224.26,NA
+949,Basil Pesto Pasta,66,26.33,1737.78,EMEA
+950,Organic Honeycrisp Apples,71,284.55,20203.05,NA
+951,Karaoke Microphone,47,416.02,19552.94,MEA
+952,Almond Flour Cookies,88,170.06,14965.28,APAC
+953,Cordless Electric Screwdriver,92,198.98,18306.16,NA
+954,Honey Ginger Tea,30,824.83,24744.9,APAC
+955,Nature Explorer Lens Kit,36,952.49,34289.64,APAC
+956,Honeycrisp Apple Chips,6,195.19,1171.14,NA
+957,Cat Tree,27,307.09,8291.43,NA
+958,Roasted Garlic Mashed Potatoes,7,71.12,497.84,APAC
+959,Wrap Front Midi Skirt,8,17.74,141.92,MEA
+960,Ginger Turmeric Tea,17,486.89,8277.13,EMEA
+961,Popcorn Chicken,12,918.29,11019.48,NA
+962,Organic Brown Rice Cakes,7,394.43,2761.01,LATAM
+963,Mini Hand Gesture Drone,46,766.15,35242.9,APAC
+964,Lemon Herb Quinoa,52,408.04,21218.08,LATAM
+965,Garlic & Herb Goat Cheese,10,221.67,2216.7,EMEA
+966,Personal Safety Alarm,33,435.29,14364.57,MEA
+967,Cheddar Cheese Crackers,40,312.52,12500.8,MEA
+968,Chili Beans (canned),63,370.26,23326.38,EMEA
+969,Organic Quinoa,67,414.6,27778.2,APAC
+970,Sesame Garlic Noodles,49,725.38,35543.62,LATAM
+971,Water Bottle,7,539.91,3779.37,MEA
+972,Organic Vanilla Bean Ice Cream,4,613.88,2455.52,APAC
+973,Noise Cancelling Ear Muffs,79,64.98,5133.42,MEA
+974,Reusable Silicone Food Storage Bags,36,637.37,22945.32,MEA
+975,Honey Sesame Chicken,24,453.24,10877.76,EMEA
+976,Green Tea Matcha Powder,16,870.9,13934.4,EMEA
+977,Creamy Ranch Dressing,89,851.45,75779.05,LATAM
+978,Comfort Flats,9,723.46,6511.14,MEA
+979,Samsung Galaxy Smartwatch,72,55.66,4007.52,MEA
+980,LED Strip Lights Kit,57,180.4,10282.8,APAC
+981,Portable Speakers,73,360.98,26351.54,LATAM
+982,Himalayan Salt Grinder,65,4.85,315.25,NA
+983,Backpack,72,714.12,51416.64,EMEA
+984,Greek Feta Cheese,9,540.52,4864.68,MEA
+985,Children's Educational Workbook,22,843.29,18552.38,NA
+986,Sesame Seeds,95,999.41,94943.95,LATAM
+987,Sporty Cap,5,38.41,192.05,NA
+988,Teriyaki Salmon Fillets,82,159.37,13068.34,NA
+989,Nail Polish Set,84,243.11,20421.24,EMEA
+990,Smoked Salmon,61,840.13,51247.93,NA
+991,Almond Flour Brownies,90,90.04,8103.6,NA
+992,Chili Garlic Sauce,18,750.49,13508.82,NA
+993,Teriyaki Chicken Stir-Fry,44,338.28,14884.32,APAC
+994,Roasted Garlic Mashed Potatoes,30,543.68,16310.4,MEA
+995,Chickpea Snack Mix,93,425.97,39615.21,MEA
+996,Chocolate Protein Powder,93,902.37,83920.41,MEA
+997,Tuna Fish (canned),6,843.05,5058.3,APAC
+998,Luxury Bathrobe,19,787.77,14967.63,MEA
+999,Chili Beans in Sauce,88,753.97,66349.36,EMEA
+1000,Smoked Gouda Cheese,72,803.6,57859.2,MEA
